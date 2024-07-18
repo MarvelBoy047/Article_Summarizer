@@ -56,10 +56,6 @@
 - [TextBlob](https://textblob.readthedocs.io/en/dev/)
 - [Google Search API](https://pypi.org/project/googlesearch-python/)
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - Thanks to the [Streamlit](https://streamlit.io/) team for providing an excellent framework for building web applications.
