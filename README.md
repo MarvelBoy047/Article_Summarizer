@@ -1,6 +1,6 @@
 # Name Error - Article Extraction and Summarization
 
-![Article ProBot](images/name_error_logo.png)
+![Article ProBot](logo.png)
 
 ## Overview
 
