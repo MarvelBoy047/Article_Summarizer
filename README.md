@@ -1,4 +1,4 @@
-# Name Error - Article Extraction and Summarization
+# Article Extraction and Summarization
 
 ![Name Error](images/name_error_logo.png)
 
