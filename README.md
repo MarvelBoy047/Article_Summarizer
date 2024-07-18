@@ -1,10 +1,10 @@
-# Name Error - Article Extraction and Summarization
+# Article ProBot - Article Extraction and Summarization
 
-![Name Error](images/name_error_logo.png)
+![Article ProBot](images/name_error_logo.png)
 
 ## Overview
 
-**Name Error** is a web application built with Streamlit that allows users to extract content from articles, summarize the content, extract keywords, and find related articles based on those keywords. The application highlights the extracted keywords in the summarized text for better readability.
+**Article ProBot** is a web application built with Streamlit that allows users to extract content from articles, summarize the content, extract keywords, and find related articles based on those keywords. The application highlights the extracted keywords in the summarized text for better readability.
 
 ## Features
 
@@ -43,13 +43,10 @@
 ## Screenshots
 
 ### Home Page
-![Home Page](images/home_page.png)
+![Home Page](output_1.png)
 
-### Summarized Content
-![Summarized Content](images/summarized_content.png)
-
-### Related Articles
-![Related Articles](images/related_articles.png)
+### Summarized Content and Related Articles
+![Summarized Content](output_2.png)
 
 ## Technologies Used
 

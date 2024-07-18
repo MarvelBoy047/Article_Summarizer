@@ -73,9 +73,9 @@ def highlight_keywords(summary, keywords):
 
 # Main function for UI
 def main():
-    st.set_page_config(page_title="Name Error - Article Extraction", page_icon=":newspaper:", layout="wide")
+    st.set_page_config(page_title="Article ProBot - Article Extraction", page_icon=":newspaper:", layout="wide")
     
-    st.markdown("<h1 style='text-align: center; color: green;'>Name Error</h1>", unsafe_allow_html=True)
+    st.markdown("<h1 style='text-align: center; color: red;'>Article ProBot</h1>", unsafe_allow_html=True)
     st.header("Article Extraction")
 
     article_name = st.text_input("Enter the name of the article:", key="article_input")
@@ -110,4 +110,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
